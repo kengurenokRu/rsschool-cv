@@ -9,12 +9,12 @@
 Easily trained and responsible. I strive to learn something new.
 ---
 ## Skills
-* C#
-* C++
-* Pascal/Delphi
-* base knowledge of SQL
-* base knowledge of database: Access, MySql, MySQL, DB2
-* base knowledge of 1C
+* C#;
+* C++;
+* Pascal/Delphi;
+* base knowledge of SQL;
+* base knowledge of database: Access, MySql, MySQL, DB2;
+* base knowledge of 1C.
 ---
 ## Code example
 ```
