@@ -1,5 +1,6 @@
 # Nastassia Dunaeva
 ![фото](https://lh3.googleusercontent.com/a/AAcHTteEKYFWotkWZZneB94wjRPbSY1NqE7bewBH9yheh8tV4dKn=s360-c-no "Мое фото")
+
 ---
 ## Contacts
 * **email**: nastassiadunaeva@gmail.com
@@ -33,11 +34,11 @@ Test(ExampleTests, should_pass_all_the_tests_provided) {
 ```
 ---
 ## Experience
-I don't have experience.
+I don't have experience
 ---
 ## Education
 * College: Gomel State Agrarian and Economic College, software engineer;
-* University: Gomel State University named after F. Skorina, teacher of mathematics and computer science, mathematician programmer.
+* University: Gomel State University named after F. Skorina, teacher of mathematics and computer science, mathematician programmer;
 ---
 ## English
 A1
