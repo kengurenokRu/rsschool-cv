@@ -3,11 +3,11 @@
 
 ---
 ## Contacts
-* **email**: nastassiadunaeva@gmail.com
-* **discord**: lulu2336
+* **email**: nastassiadunaeva@gmail.com;
+* **discord**: lulu2336;
 ---
 ## About Me
-Easily trained and responsible. I strive to learn something new.
+Easily trained and responsible. I strive to learn something new
 ---
 ## Skills
 * C#;
