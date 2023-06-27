@@ -33,7 +33,7 @@ Test(ExampleTests, should_pass_all_the_tests_provided) {
 ```
 ---
 ## Experience
-I don't experience
+I don't have experience
 ---
 ## Education
 * College: Gomel State Agrarian and Economic College, software engineer
