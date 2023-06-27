@@ -1,4 +1,5 @@
 # Nastassia Dunaeva
+![Alt-фото](https://lh3.googleusercontent.com/a/AAcHTteEKYFWotkWZZneB94wjRPbSY1NqE7bewBH9yheh8tV4dKn=s360-c-no "Мое фото")
 ---
 ## Contacts
 **email**: nastassiadunaeva@gmail.com
