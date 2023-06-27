@@ -14,7 +14,7 @@ Easily trained and responsible. I strive to learn something new.
 * Pascal/Delphi;
 * base knowledge of SQL;
 * base knowledge of database: Access, MySql, MySQL, DB2;
-* base knowledge of 1C.
+* base knowledge of 1C;
 ---
 ## Code example
 ```
