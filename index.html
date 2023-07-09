@@ -1,9 +1,87 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
-<title>Сайт начинающего верстальщика</title>
-<link rel="stylesheet" href="outlines.css">
+    <title>cv</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="assets/icon.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
 </head>
-<body>
+
+<body class = "container">
+    <header class="header">
+        <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main">
+        <h1 class="title"> Nastassia Dunaeva </h1>
+        <img src="./assets/foto.jpg" alt="Дунаева Анастасия" height="200px">
+        <section class="section" id="contacts">
+            <h2 class="section-title"> Contacts</h2>
+            <p><b>email</b>: nastassiadunaeva@gmail.com;</p>
+            <p><b>discord</b>: lulu2336;</p>
+        </section>
+        <section class="section" id="summary">
+            <h2 class="section-title">Symmary</h2>
+            <p>Easily trained and responsible. I strive to learn something new.</p>
+        </section>
+        <section class="section" id="skills">
+            <h2 class="section-title"> Skills</h2>
+            <ul>
+                <li> C#; </li>
+                <li> C++; </li>
+                <li> Pascal/Delphi; </li>
+                <li> base knowledge of SQL; </li>
+                <li> base knowledge of database: Access, MySql, MySQL, DB2; </li>
+                <li> base knowledge of 1C; </li>
+            </ul>
+        </section>
+        <section class="section" id="code">
+            <h2 class="section-title"> Code example</h2>
+            <p class="code"> int multiply(int a, int b)</p>
+            <p class="code">{</p>
+            <p class="code">return a*b;</p>
+            <p class="code">}</p>
+            <p class="code">#include <criterion /criterion.h>
+            </p>
+            <p class="code">int multiply(int, int);</p>
+            <p class="code">
+                Test(ExampleTests, should_pass_all_the_tests_provided) {</p>
+            <p class="code">cr_assert_eq(multiply(5, 6), 30);</p>
+            <p class="code">cr_assert_eq(multiply(12, 12), 144);</p>
+            <p class="code">}</p>
+        </section>
+        <section class="section" id="projects">
+            <h2 class="section-title"> Experience</h2>
+            <p> I don't have experience</p>
+        </section>
+        <section class="section" id="education">
+            <h2 class="section-title">Education</h2>
+            <ul>
+                <li>College: Gomel State Agrarian and Economic College, software engineer;</li>
+                <li>University: Gomel State University named after F. Skorina, teacher of mathematics and computer
+                    science, mathematician programmer;</li>
+            </ul>
+        </section>
+        <section class="section" id="english">
+
+            <h2 class="section-title"> English</h2>
+            <p>A1</p>
+        </section>
+    </main>
+    <footer class="footer">        
+            <a href="https://rs.school/js/" class="nav-link"><img src="./assets/rs_school_js.svg" alt = "logo" height="30px"> </a>
+            <a href="https://github.com/kengurenokRu" class="nav-link">Github</a>
+    </footer> 
 </body>
 </html>
